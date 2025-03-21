@@ -33,4 +33,4 @@ This Java project demonstrates how to perform CRUD operations and aggregation qu
 1. Ensure MongoDB is running locally on port `27017`
 2. Clone this repository:
    ```bash
-   git clone https://github.com/halimdakir/MangoDB_Java.git
+   git clone https://github.com/halimdakir/MongoDB-Java-CRUD-and-Aggregation.git
